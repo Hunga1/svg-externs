@@ -1,0 +1,26 @@
+{
+  "name": "svg-externs",
+  "version": "1.0.0",
+  "description": "Closure compiler externs for SVG",
+  "main": "svg.js",
+  "scripts": {
+    "test": "echo \"Error: no tests exist for this project\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hunga1/svg-externs.git"
+  },
+  "keywords": [
+    "svg",
+    "externs",
+    "compiler",
+    "closure",
+    "google"
+  ],
+  "author": "Aaron Hung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hunga1/svg-externs/issues"
+  },
+  "homepage": "https://github.com/Hunga1/svg-externs#readme"
+}
